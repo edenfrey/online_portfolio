@@ -22,7 +22,7 @@ This was enough to make me want to have my own website where I have full control
 
 ## Idea/Framework
 
-_v1_ | The idea is to first have a simple all-in-one page where it is divided intto segments (vertically) and the contents of each segment can be viewed within the segment itself (horizontally). The different segments are as follows: greeting, about, projects, experience, creditations, testimonials, blog posts, contact form.
+_v1_ | The idea is to first have a simple all-in-one page where it is divided into segments (vertically) and the contents of each segment can be viewed within the segment itself (horizontally). The different segments are as follows: greeting, about, projects, experience, accreditation, testimonials, blog posts, contact form.
 
 ## Status
 
