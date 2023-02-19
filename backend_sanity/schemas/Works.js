@@ -9,13 +9,11 @@ export default{
             type: "string",
             title: "Name"
         },
-
         {
             name: "dateofcompletion",
             type: "date",
             title: "DateOfCompletion"
         },
-
         {
             name: "projecturl",
             type: "url",

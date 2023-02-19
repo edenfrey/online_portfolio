@@ -10,14 +10,19 @@ export default{
             title: 'Title'
         },
         {
+            name: 'description',
+            type: 'string',
+            title: 'Description'
+        },
+        {
             name: 'code',
             type: 'file',
             title: 'Code'
         },
         {
-            name: 'Functionality',
+            name: 'function',
             type: 'string',
-            title: 'Functionality'
+            title: 'Function'
         }
     ]
 }

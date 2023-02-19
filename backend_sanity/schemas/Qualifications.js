@@ -22,9 +22,22 @@ export default{
             }
         },
         {
+            name: "imageurl",
+            type: "image",
+            title: "ImageURL",
+            options: {
+                hotspot: true,
+            },
+        },
+        {
             name: 'date',
             type: 'date',
             title: 'Date',
-        }
+        },
+        {
+            name: 'description',
+            type: 'string',
+            title: 'Description'
+        },
     ]
 }
