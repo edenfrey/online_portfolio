@@ -4,8 +4,8 @@ import Guides from "./Guides"
 import Qualifications from "./Qualifications"
 import Blogs from "./Blogs"
 import CodeSnippets from "./CodeSnippets"
-import Writeups from "./Writeups"
+import WriteUps from "./WriteUps"
 import Skills from "./Skills"
+import People from "./People"
 
-
-export const schemaTypes = [Qualifications, Works, Testimonials, Guides, Blogs, CodeSnippets, Writeups, Skills]
+export const schemaTypes = [People, Qualifications, Works, Testimonials, Guides, Blogs, CodeSnippets, WriteUps, Skills]

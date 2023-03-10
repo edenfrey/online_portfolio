@@ -10,9 +10,9 @@ export default{
             title: 'Title'
         },
         {
-            name: 'description',
+            name: 'summary',
             type: 'string',
-            title: 'Description'
+            title: 'Summary'
         },
         {
             name: 'imageurl',

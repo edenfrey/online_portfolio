@@ -7,7 +7,7 @@ export default{
         {
             name: 'title',
             type: 'string',
-            title: 'Blog Title'
+            title: 'Title'
         },
         {
             name: 'date',
@@ -15,9 +15,9 @@ export default{
             title: 'Date'
         },
         {
-            name: 'description',
+            name: 'summary',
             type: 'string',
-            title: 'Description'
+            title: 'Summary'
         },
         {
             name: 'imageurl',
@@ -27,7 +27,7 @@ export default{
         {
             name: 'content',
             type: 'string',
-            title: 'Blog Content'
+            title: 'Content'
         }
     ]
 }

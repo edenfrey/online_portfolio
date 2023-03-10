@@ -1,7 +1,7 @@
 export default{
-    name: "writeups",
+    name: "write_ups",
     type: "document",
-    title: "Write-ups",
+    title: "Write-Ups",
     fields: [
         {
             name: "title",
@@ -18,11 +18,10 @@ export default{
             type: "file",
             title: "Write-up Document"
         },
-
         {
-            name: "gist",
+            name: "summary",
             type: "string",
-            title: "Gist",
+            title: "Summary",
         },
     ],
 }

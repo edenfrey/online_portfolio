@@ -5,24 +5,9 @@ export default{
     fields: [
 
         {
-            name : 'name',
-            type: 'string',
-            title: 'Name',
-        },
-
-        {
-            name : 'company',
-            type: 'string',
-            title: 'Company',
-        },
-
-        {
-            name : 'imageurl',
-            type: 'image',
-            title: 'ImageURL',
-            options: {
-                hotspot: true,
-            },
+            name: 'person',
+            type: 'people',
+            title: 'Person',
         },
 
         {

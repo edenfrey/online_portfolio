@@ -10,22 +10,20 @@ export default{
             title: "Name"
         },
         {
-            name: "dateofcompletion",
+            name: "date",
             type: "date",
-            title: "DateOfCompletion"
+            title: "Date"
         },
         {
-            name: "projecturl",
+            name: "project_url",
             type: "url",
-            title: "ProjectURL"
+            title: "Project URL"
         },
-
         {
             name: "description",
             type: "string",
             title: "Description"
         },
-
         {
             name: "imageurl",
             type: "image",

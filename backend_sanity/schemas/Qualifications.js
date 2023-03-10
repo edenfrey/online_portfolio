@@ -15,7 +15,7 @@ export default{
             title: 'Status',
             options: {
                 list: [
-                    { title: 'Not Started', value: 'not-started' },
+                    { title: 'Not Started', value: 'not_started' },
                     { title: 'Ongoing',     value: 'ongoing' },
                     { title: 'Achieved',     value: 'achieved' },
                 ],

@@ -1,5 +1,5 @@
 export default{
-    name: 'codesnippets',
+    name: 'code_snippets',
     type: 'document',
     title:'Code Snippets',
     fields: [
@@ -18,11 +18,6 @@ export default{
             name: 'code',
             type: 'file',
             title: 'Code'
-        },
-        {
-            name: 'function',
-            type: 'string',
-            title: 'Function'
         }
     ]
 }
